@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Google Cloud Platform and Terraform.
 - 📫 How to reach me ... just drop me an e-mail:
   damian.galka (at) accenture.com
-  damian.galka (at) googlecloud.corp-partner.google.com
 
 <!---
 damiangalka-accenture/damiangalka-accenture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
